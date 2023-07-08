@@ -2,4 +2,4 @@
 
 My name is Alicyn, and my pronouns are she/they/he.
 
-I'm a student in Game Development with a minor in Sociology. I'm currently learning C++, and I have a desire to learn Java/Javascript in the near future.
+I'm a student in Game Development with a minor in Sociology. I'm primarily learning C++ in school and quickly learning Python, Flask, and HTML/CSS/Javascript while working on the Monopoly project. I also plan to learn Java in the near future!
