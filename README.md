@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm studying game development with a specialization in art and a minor in sociology.<br><br>I'm interested in pursuing a career in narrative, transformative, and inclusive game design.<br><br>I'm a C++ native with some experience in Python through the Monopoly project. I'm also experienced in Unreal Engine 4.27, which I used to create the Renter's Rights Trivia game.<br><br>I'm currently learning more about Assembly, HTML, JavaScript, and CSS.
+I'm studying game development with a specialization in art and a minor in sociology.
+
+I'm interested in pursuing a career in narrative, transformative, and inclusive game design.
+
+I'm most experienced with C++, but I've dabbled in Python through the Monopoly project. I'm also experienced in Unreal Engine 4.27, which I used to create the Renter's Rights Trivia game.
+
+I'm currently learning more about NASM, HTML (including HTML5 Canvas and WebGL), and JavaScript.
 
 
 ## 🌐 Socials:
